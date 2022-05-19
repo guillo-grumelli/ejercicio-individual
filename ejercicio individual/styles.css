@@ -1,0 +1,22 @@
+body{
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+h1{
+    font-family: 'Red Hat Display', sans-serif;
+    
+}
+
+h3{
+    font-family: 'Red Hat Display', sans-serif; 
+}
+
+h4{
+    font-family: 'Red Hat Display', sans-serif;
+}
+
